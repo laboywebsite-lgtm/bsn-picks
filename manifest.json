@@ -3,21 +3,38 @@
   "base_url": "https://laboywebsite-lgtm.github.io/bsn-picks",
   "files": [
     {
+      "name": "Laboy BSN Lines 2026-04-14-765aad3.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-04-14-765aad3.html",
+      "type": "lines",
+      "subtype": "",
+      "date": "2026-04-14"
+    },
+    {
+      "name": "Laboy BSN Picks 2026-04-14-765aad3.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Picks%202026-04-14-765aad3.html",
+      "type": "picks",
+      "subtype": "",
+      "date": "2026-04-14"
+    },
+    {
       "name": "Laboy BSN Record Card 2026-04-13-2bb8a1e.html",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Record%20Card%202026-04-13-2bb8a1e.html",
       "type": "record",
+      "subtype": "my_record",
       "date": "2026-04-13"
     },
     {
       "name": "Laboy BSN Lines 2026-04-13-2bb8a1e.html",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-04-13-2bb8a1e.html",
       "type": "lines",
+      "subtype": "",
       "date": "2026-04-13"
     },
     {
       "name": "Laboy BSN Picks 2026-04-13-2bb8a1e.html",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Picks%202026-04-13-2bb8a1e.html",
       "type": "picks",
+      "subtype": "",
       "date": "2026-04-13"
     }
   ]
