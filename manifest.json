@@ -3,6 +3,20 @@
   "base_url": "https://laboywebsite-lgtm.github.io/bsn-picks",
   "files": [
     {
+      "name": "Laboy BSN Record Card 2026-04-14-765aad3.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Record%20Card%202026-04-14-765aad3.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-04-14"
+    },
+    {
+      "name": "Laboy BSN Record Card 2024-04-14-55ffd79.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Record%20Card%202024-04-14-55ffd79.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2024-04-14"
+    },
+    {
       "name": "Laboy BSN Lines 2026-04-14-765aad3.html",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-04-14-765aad3.html",
       "type": "lines",
@@ -36,6 +50,41 @@
       "type": "picks",
       "subtype": "",
       "date": "2026-04-13"
+    },
+    {
+      "name": "Laboy Pick 2026-04-14 #3.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-14%20#3.jpg",
+      "type": "mypick_img",
+      "subtype": "",
+      "date": "2026-04-14"
+    },
+    {
+      "name": "Laboy Pick 2026-04-13 #2.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-13%20#2.jpg",
+      "type": "mypick_img",
+      "subtype": "",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "Laboy Pick 2026-04-13 #3.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-13%20#3.jpg",
+      "type": "mypick_img",
+      "subtype": "",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "Laboy Pick 2026-04-12 #1.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-12%20#1.jpg",
+      "type": "mypick_img",
+      "subtype": "",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "Laboy Pick 2026-04-12 #0.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-12%20#0.jpg",
+      "type": "mypick_img",
+      "subtype": "",
+      "date": "2026-04-12"
     }
   ]
 }
