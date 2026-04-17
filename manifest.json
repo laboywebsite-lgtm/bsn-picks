@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/bsn-picks",
   "files": [
     {
+      "name": "Laboy BSN Parlay 2026-04-17 #9.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Parlay%202026-04-17%20#9.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-04-17"
+    },
+    {
       "name": "Laboy BSN Record Card 2026-04-16-1e9ff66.html",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Record%20Card%202026-04-16-1e9ff66.html",
       "type": "record",
@@ -111,7 +118,7 @@
       "name": "Laboy Pick 2026-04-16 #8.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-16%20%238.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-16",
       "game": "PIRATAS vs. CAPITANES"
     },
@@ -119,7 +126,7 @@
       "name": "Laboy Pick 2026-04-16 #7.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-16%20%237.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-16",
       "game": "GIGANTES vs. OSOS"
     },
@@ -127,7 +134,7 @@
       "name": "Laboy BSN MyPicks 2026-04-16.png",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20MyPicks%202026-04-16.png",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-16",
       "game": ""
     },
