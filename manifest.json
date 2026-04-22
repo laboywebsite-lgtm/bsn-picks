@@ -3,6 +3,20 @@
   "base_url": "https://laboywebsite-lgtm.github.io/bsn-picks",
   "files": [
     {
+      "name": "Laboy BSN Lines 2026-04-22-bfa50e6.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-04-22-bfa50e6.html",
+      "type": "lines",
+      "subtype": "",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "Laboy BSN Picks 2026-04-22-bfa50e6.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Picks%202026-04-22-bfa50e6.html",
+      "type": "picks",
+      "subtype": "",
+      "date": "2026-04-22"
+    },
+    {
       "name": "Laboy BSN Record Card 2026-04-21-24ac78e.html",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Record%20Card%202026-04-21-24ac78e.html",
       "type": "record",
@@ -129,24 +143,10 @@
       "date": "2026-04-15"
     },
     {
-      "name": "Laboy BSN Record Card 2026-04-14-765aad3.html",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Record%20Card%202026-04-14-765aad3.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "Laboy BSN Lines 2026-04-15-9f0355f.html",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-04-15-9f0355f.html",
-      "type": "lines",
-      "subtype": "",
-      "date": "2026-04-15"
-    },
-    {
       "name": "Laboy Pick 2026-04-21 #39.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-21%20%2339.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-21",
       "game": "ATLETICOS vs. vs. CRIOLLOS"
     },
@@ -154,7 +154,7 @@
       "name": "Laboy Pick 2026-04-21 #38.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-21%20%2338.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-21",
       "game": "ATLETICOS vs. vs. CRIOLLOS"
     },
@@ -162,7 +162,7 @@
       "name": "Laboy Pick 2026-04-21 #37.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-21%20%2337.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-21",
       "game": "METS vs. vs. INDIOS"
     },
