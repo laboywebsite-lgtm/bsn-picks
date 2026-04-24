@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/bsn-picks",
   "files": [
     {
+      "name": "Laboy BSN Record Card 2026-04-23-1d5e80d.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Record%20Card%202026-04-23-1d5e80d.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-04-23"
+    },
+    {
       "name": "Laboy BSN Lines 2026-04-23-1d5e80d.html",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-04-23-1d5e80d.html",
       "type": "lines",
@@ -136,11 +143,12 @@
       "date": "2026-04-16"
     },
     {
-      "name": "Laboy BSN Picks 2026-04-16-1e9ff66.html",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Picks%202026-04-16-1e9ff66.html",
-      "type": "picks",
-      "subtype": "",
-      "date": "2026-04-16"
+      "name": "Laboy Pick 2026-04-23 #43.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-23%20%2343.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-04-23",
+      "game": "CRIOLLOS vs. vs. INDIOS"
     },
     {
       "name": "Laboy Pick 2026-04-23 #42.jpg",
