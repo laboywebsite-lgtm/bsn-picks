@@ -143,6 +143,30 @@
       "date": "2026-04-19"
     },
     {
+      "name": "Laboy Pick 2026-04-27 #49.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-27%20%2349.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-04-27",
+      "game": "VAQUEROS vs. vs. CRIOLLOS"
+    },
+    {
+      "name": "Laboy Pick 2026-04-26 #48.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-26%20%2348.jpg",
+      "type": "mypick_img",
+      "subtype": "archive",
+      "date": "2026-04-26",
+      "game": "CAPITANES vs. GIGANTES"
+    },
+    {
+      "name": "Laboy Pick 2026-04-26 #47.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-26%20%2347.jpg",
+      "type": "mypick_img",
+      "subtype": "archive",
+      "date": "2026-04-26",
+      "game": "SANTEROS vs. vs. LEONES"
+    },
+    {
       "name": "Laboy Pick 2026-04-25 #46.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-25%20%2346.jpg",
       "type": "mypick_img",
@@ -357,30 +381,6 @@
       "subtype": "archive",
       "date": "2026-04-13",
       "game": "INDIOS vs. VAQUEROS"
-    },
-    {
-      "name": "Laboy Pick 2026-04-13 #3.jpg",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-13%20%233.jpg",
-      "type": "mypick_img",
-      "subtype": "archive",
-      "date": "2026-04-13",
-      "game": "PIRATAS vs. GIGANTES"
-    },
-    {
-      "name": "Laboy Pick 2026-04-12 #1.jpg",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-12%20%231.jpg",
-      "type": "mypick_img",
-      "subtype": "archive",
-      "date": "2026-04-12",
-      "game": "SANTEROS vs. PIRATAS"
-    },
-    {
-      "name": "Laboy Pick 2026-04-12 #0.jpg",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-12%20%230.jpg",
-      "type": "mypick_img",
-      "subtype": "archive",
-      "date": "2026-04-12",
-      "game": "LEONES vs. OSOS"
     }
   ]
 }
