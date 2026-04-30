@@ -3,6 +3,20 @@
   "base_url": "https://laboywebsite-lgtm.github.io/bsn-picks",
   "files": [
     {
+      "name": "Laboy BSN Lines 2026-04-30-9b68dc8.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-04-30-9b68dc8.html",
+      "type": "lines",
+      "subtype": "",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "Laboy BSN Picks 2026-04-30-9b68dc8.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Picks%202026-04-30-9b68dc8.html",
+      "type": "picks",
+      "subtype": "",
+      "date": "2026-04-30"
+    },
+    {
       "name": "Laboy BSN Lines 2026-04-29-46bb336.html",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-04-29-46bb336.html",
       "type": "lines",
@@ -129,24 +143,10 @@
       "date": "2026-04-21"
     },
     {
-      "name": "Laboy BSN Lines 2026-04-21-24ac78e.html",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-04-21-24ac78e.html",
-      "type": "lines",
-      "subtype": "",
-      "date": "2026-04-21"
-    },
-    {
-      "name": "Laboy BSN Picks 2026-04-21-24ac78e.html",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Picks%202026-04-21-24ac78e.html",
-      "type": "picks",
-      "subtype": "",
-      "date": "2026-04-21"
-    },
-    {
       "name": "Laboy Pick 2026-04-29 #51.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-29%20%2351.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-29",
       "game": "GIGANTES vs. vs. PIRATAS"
     },
@@ -154,7 +154,7 @@
       "name": "Laboy Pick 2026-04-29 #50.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-29%20%2350.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-29",
       "game": "SANTEROS vs. vs. ATLETICOS"
     },
