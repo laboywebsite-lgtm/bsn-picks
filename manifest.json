@@ -143,6 +143,14 @@
       "date": "2026-05-01"
     },
     {
+      "name": "Laboy Pick 2026-05-08 #63.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-05-08%20%2363.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-05-08",
+      "game": "ATLETICOS vs. INDIOS"
+    },
+    {
       "name": "Laboy Pick 2026-05-08 #62.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-05-08%20%2362.jpg",
       "type": "mypick_img",
@@ -373,14 +381,6 @@
       "subtype": "archive",
       "date": "2026-04-19",
       "game": "INDIOS vs. vs. PIRATAS"
-    },
-    {
-      "name": "Laboy Pick 2026-04-19 #37.jpg",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-19%20%2337.jpg",
-      "type": "mypick_img",
-      "subtype": "archive",
-      "date": "2026-04-19",
-      "game": "METS vs. vs. INDIOS"
     }
   ]
 }
