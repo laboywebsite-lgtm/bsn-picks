@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/bsn-picks",
   "files": [
     {
+      "name": "Laboy BSN Record Card All-Time-521bafc.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Record%20Card%20All-Time-521bafc.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": ""
+    },
+    {
       "name": "Laboy BSN Lines 2026-05-09-90a1685.html",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-05-09-90a1685.html",
       "type": "lines",
@@ -22,13 +29,6 @@
       "type": "record",
       "subtype": "my_record",
       "date": "2026-05-08"
-    },
-    {
-      "name": "Laboy BSN Record Card All-Time-521bafc.html",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Record%20Card%20All-Time-521bafc.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": ""
     },
     {
       "name": "Laboy BSN Lines 2026-05-08-4dd01c0.html",
@@ -146,7 +146,7 @@
       "name": "Laboy Pick 2026-05-09 #64.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-05-09%20%2364.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-05-09",
       "game": "METS vs. GIGANTES"
     },
