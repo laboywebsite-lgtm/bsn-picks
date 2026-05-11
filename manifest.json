@@ -3,6 +3,20 @@
   "base_url": "https://laboywebsite-lgtm.github.io/bsn-picks",
   "files": [
     {
+      "name": "Laboy BSN Lines 2026-05-11-e64c195.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-05-11-e64c195.html",
+      "type": "lines",
+      "subtype": "",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "Laboy BSN Picks 2026-05-11-e64c195.html",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Picks%202026-05-11-e64c195.html",
+      "type": "picks",
+      "subtype": "",
+      "date": "2026-05-11"
+    },
+    {
       "name": "Laboy BSN Record Card 2026-05-10-680f0f7.html",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Record%20Card%202026-05-10-680f0f7.html",
       "type": "record",
@@ -129,24 +143,10 @@
       "date": "2026-05-05"
     },
     {
-      "name": "Laboy BSN Record Card 2026-05-04-0cea55f.html",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Record%20Card%202026-05-04-0cea55f.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "Laboy BSN Lines 2026-05-04-0cea55f.html",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20BSN%20Lines%202026-05-04-0cea55f.html",
-      "type": "lines",
-      "subtype": "",
-      "date": "2026-05-04"
-    },
-    {
       "name": "Laboy Pick 2026-05-10 #67.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-05-10%20%2367.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-05-10",
       "game": "INDIOS vs. CAPITANES"
     },
@@ -154,7 +154,7 @@
       "name": "Laboy Pick 2026-05-10 #66.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-05-10%20%2366.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-05-10",
       "game": "PIRATAS vs. SANTEROS"
     },
@@ -162,7 +162,7 @@
       "name": "Laboy Pick 2026-05-10 #65.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-05-10%20%2365.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-05-10",
       "game": "VAQUEROS vs. CANGREJEROS"
     },
