@@ -143,6 +143,14 @@
       "date": "2026-05-05"
     },
     {
+      "name": "Laboy Pick 2026-05-11 #68.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-05-11%20%2368.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-05-11",
+      "game": "OSOS vs. ATLETICOS"
+    },
+    {
       "name": "Laboy Pick 2026-05-10 #67.jpg",
       "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-05-10%20%2367.jpg",
       "type": "mypick_img",
@@ -373,14 +381,6 @@
       "subtype": "archive",
       "date": "2026-04-22",
       "game": "SANTEROS vs. vs. OSOS"
-    },
-    {
-      "name": "Laboy Pick 2026-04-21 #39.jpg",
-      "url": "https://laboywebsite-lgtm.github.io/bsn-picks/Laboy%20Pick%202026-04-21%20%2339.jpg",
-      "type": "mypick_img",
-      "subtype": "archive",
-      "date": "2026-04-21",
-      "game": "ATLETICOS vs. vs. CRIOLLOS"
     }
   ]
 }
